@@ -1,5 +1,7 @@
 # toonzscript_music
 
+synchronize the movie and the music
+
 USAGE
 ---------------
 
